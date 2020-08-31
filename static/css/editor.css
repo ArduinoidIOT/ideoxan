@@ -429,9 +429,11 @@
         display: none;
     }
     #lesson-guide-container {
+        min-height: 200px;
         max-height: calc(100vh - 387px);
     }
     #lesson-guide-content {
+        min-height: 200px;
         height: calc(100vh - 387px);
     }
     #editor-container {
