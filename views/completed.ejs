@@ -7,10 +7,7 @@
     </head>
     <body>
         <%- include('./partials/nav.ejs') %>
-        <div class="pyro">
-            <div class="before"></div>
-            <div class="after"></div>
-        </div>
+        <div class="pyro"></div>
         <main id="body-fullwh" class="inner-align-center">
             <div style="display: flex; flex-direction: column; flex-wrap: nowrap; align-items: center; justify-items: center;">
                 <h1 class="heading">You Successfully Completed the <%- course.replace(/\b\w+/g, (s) => { return s.charAt(0).toUpperCase() + s.substr(1).toLowerCase() }) %> Course!</h1>
