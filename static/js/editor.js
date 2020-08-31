@@ -478,7 +478,7 @@ define([
                         }
                     })
 
-                    let toTest = parsed.cloneNode(true)
+                    // let toTest = parsed.cloneNode(true)
 
                     let scriptNode = parsed.createElement('script')
                     scriptNode.src = '/static/js/console-interceptor.js'
@@ -495,11 +495,11 @@ define([
                                 if (tasks[i].defer) scriptNode.defer = true
                                 if (tasks[i].async) scriptNode.async = true
                                 if (tasks[i].in == 'body') {
-                                    toTest.body.appendChild(scriptNode)
+                                    parsed.body.appendChild(scriptNode)
                                 } else if (tasks[i].in == 'headstart') {
-                                    toTest.head.prepend(scriptNode)
+                                    parsed.head.prepend(scriptNode)
                                 } else if (tasks[i].in == 'headend') {
-                                    toTest.head.append(scriptNode)
+                                    parsed.head.append(scriptNode)
                                 }
                             }
                         }
