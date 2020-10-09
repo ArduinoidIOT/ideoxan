@@ -1,14 +1,14 @@
 <!-- Why yes, I did use HTML excessively in this Markdown document. :^) -->
 <p align="center"><img src="https://raw.githubusercontent.com/ideoxan/ideoxan/master/gitbanner.png"></p>
 <h3 align="center">👩‍💻 A free to use online tool to learn programming.</h3>
-<br>
+<!-- <br>
 <p align="center">
     <img src="https://img.shields.io/github/issues/ideoxan/ideoxan?logo=github&style=for-the-badge">
     <img src="https://img.shields.io/github/issues-pr/ideoxan/ideoxan?logo=github&style=for-the-badge">
     <img src="https://img.shields.io/github/stars/ideoxan/ideoxan?logo=github&style=for-the-badge">
     <img src="https://img.shields.io/github/watchers/ideoxan/ideoxan?logo=github&style=for-the-badge">
     <img src="https://img.shields.io/github/contributors/ideoxan/ideoxan?logo=github&style=for-the-badge">
-</p>
+</p> -->
 <br>
 
 ## Table of Contents
@@ -27,12 +27,12 @@ You can learn more and sign up today at [https://ideoxan.com/](https://ideoxan.c
 This repository contains the Ideoxan Express.js Server, Koala Editor, Ideoxan Website and other miscellaneous things.
 
 ## Contributing
-If you would like to contribute to this project, please read the [Contributing Guidelines](CONTRIBUTING.md)!
+If you would like to contribute to this project, please read the [Contributing Guidelines](https://github.com/ideoxan/contributing)!
 
 ## License and Community
 While this repository as a whole is licensed under the [MIT License](LICENSE), keep in mind that this does not mean that *all* content is under said license. Certain documents and media included or referenced to may be licensed differently, restricted/copyrighted, or may not be licensed at all.
 
-This project is maintained and governed in accordance with the project's official [Code of Conduct](CODE_OF_CONDUCT.md). Agreement to its terms and conditions, along with [Ideoxan's Official Terms of Service](https://ideoxan.com/tos), [Ideoxan's Privacy Policy](https://ideoxan.com/privacy) and the included [license (MIT)](LICENSE) is *required* to contribute to this organization's project.
+This project is maintained and governed in accordance with the project's official [Code of Conduct](https://github.com/ideoxan/contributing/blob/main/CODE_OF_CONDUCT.md). Agreement to its terms and conditions, along with [Ideoxan's Official Terms of Service](https://ideoxan.com/tos), [Ideoxan's Privacy Policy](https://ideoxan.com/privacy) and the included [license (MIT)](LICENSE) is *required* to contribute to this organization's project.
 
 <br>
 <h3 align="center">Get In Touch With Us!</h3>
